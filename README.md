@@ -25,4 +25,4 @@ I'm passionate about data analytics and machine learning, exploring real-world a
   <a href="https://www.github.com/DHARSHINIGANAPATHI76"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" /></a>
   <a href="https://www.linkedin.com/in/dharshini-g-932b30259"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" /></a>
   <a href="http://www.instagram.com/tatsiana_.tase"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" /></a>
-<
+
