@@ -1,6 +1,6 @@
 # Hi 👋 I'm DHARSHINI GANAPATHI
 
-## Data Science Analyst
+## Data Analyst
 
 I'm passionate about data analytics and machine learning, exploring real-world applications using Python, R, SQL, and TensorFlow. Based in Chennai, I'm eager to expand my knowledge in deep learning and natural language processing.
 
